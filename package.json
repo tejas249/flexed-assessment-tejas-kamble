@@ -1,0 +1,24 @@
+{
+  "name": "flexxd-assessment-tejas-kamble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas249/flexed-assessment-tejas-kamble.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tejas249/flexed-assessment-tejas-kamble/issues"
+  },
+  "homepage": "https://github.com/tejas249/flexed-assessment-tejas-kamble#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
